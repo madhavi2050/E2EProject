@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="274" started-at="2018-02-06T11:11:53Z" finished-at="2018-02-06T11:11:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="274" started-at="2018-02-06T11:11:53Z" finished-at="2018-02-06T11:11:53Z">
+      <class name="mavenFramework.AppTest">
+        <test-method status="PASS" signature="Jira()[pri:0, instance:mavenFramework.AppTest@67b64c45]" name="Jira" duration-ms="51" started-at="2018-02-06T16:41:53Z" finished-at="2018-02-06T16:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Jira -->
+        <test-method status="PASS" signature="deletejira()[pri:0, instance:mavenFramework.AppTest@67b64c45]" name="deletejira" duration-ms="1" started-at="2018-02-06T16:41:53Z" finished-at="2018-02-06T16:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletejira -->
+      </class> <!-- mavenFramework.AppTest -->
+      <class name="mavenFramework.SeleniumTest">
+        <test-method status="PASS" signature="browserInvocation()[pri:0, instance:mavenFramework.SeleniumTest@35f983a6]" name="browserInvocation" duration-ms="1" started-at="2018-02-06T16:41:53Z" finished-at="2018-02-06T16:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserInvocation -->
+        <test-method status="PASS" signature="elementsui()[pri:0, instance:mavenFramework.SeleniumTest@35f983a6]" name="elementsui" duration-ms="5" started-at="2018-02-06T16:41:53Z" finished-at="2018-02-06T16:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsui -->
+      </class> <!-- mavenFramework.SeleniumTest -->
+      <class name="mavenFramework.MobileTest">
+        <test-method status="PASS" signature="folderopen()[pri:0, instance:mavenFramework.MobileTest@60f82f98]" name="folderopen" duration-ms="2" started-at="2018-02-06T16:41:53Z" finished-at="2018-02-06T16:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- folderopen -->
+        <test-method status="PASS" signature="keypadtesting()[pri:0, instance:mavenFramework.MobileTest@60f82f98]" name="keypadtesting" duration-ms="2" started-at="2018-02-06T16:41:53Z" finished-at="2018-02-06T16:41:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- keypadtesting -->
+      </class> <!-- mavenFramework.MobileTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
